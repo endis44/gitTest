@@ -1,1 +1,2 @@
-add(a,b)
+print "python module Test"
+
