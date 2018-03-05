@@ -1,4 +1,4 @@
 practice git
 welcome
 Hello world!
-master에서 추가
+sniff2에서 추가
